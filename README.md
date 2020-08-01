@@ -1,0 +1,2 @@
+# laugh
+GitHub Pages
